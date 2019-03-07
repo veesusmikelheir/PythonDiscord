@@ -1,2 +1,2 @@
 class Embed:
-	pass
+    pass
